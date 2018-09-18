@@ -13,3 +13,8 @@ popular components:
 
 start with card and grid
 base for a website that links the components to codepen
+
+Sept 4th: Cards
+
+- hardcodeplaceholder info
+- Reqs: image, title and a description + responsive
