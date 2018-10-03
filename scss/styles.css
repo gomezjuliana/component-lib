@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+}
+.modal-container {
+  border: 3px solid #eee;
+  background-color: coral;
+}
+
+.modal-container:focus {
+  background-color: azure;
+}
+
+.container-container {
+  height: 100vh;
+  width: 100vw;
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(0, 255, 0, 0.05);
+}
+
+.hide {
+  display: none;
+}
