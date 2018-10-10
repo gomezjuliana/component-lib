@@ -1,4 +1,5 @@
 import Modal from './modal.js';
+import '../scss/styles.scss';
 
 document.querySelector('.modal-btn').addEventListener('click', createModal);
 

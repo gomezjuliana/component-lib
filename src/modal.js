@@ -9,7 +9,6 @@ class Modal {
     this.container.innerHTML = this.content;
     this.container.classList.remove('hide');
     this.lastActiveElement = document.activeElement;
-    console.log(this.lastActiveElement);
     this.container.setAttribute('tabindex', '0');
     this.container.focus();
 
